@@ -1,4 +1,4 @@
-=== Gust ===
+=== tinyCoffee ===
 Contributors: ideag
 Donate link: http://wordofpress.com/#coffee
 Tags: donate, donate button, paypal donate, paypal, coffee, donate widget, donate shortcode
